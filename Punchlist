@@ -1,0 +1,16 @@
+1. Finalize forearm electrical layout.
+    a. Test magnetic encoders with the Teensy 4.0
+    b. Test driving servos with the Teensy 4.0
+    c. Save encoder test program to Github page. 
+2. Design Forearm PCB
+3. 3D Print/Model
+    a. J4 Pulley (Modeled, needs to be printed)
+    b. J5 Pulley (Needs to be modeled and printed)
+    c. J6 Pulley (Needs to be modeled and printed)
+    d. J2 Housing (Finish model and print)
+    e. J3 Components (Model and Print)
+        i. Side covers
+       ii. Magnetic encoder mount
+      iii. Wire pass through (Related to magnetic encoder)
+       iv. Update pulley design for   
+    f. J1 Design
