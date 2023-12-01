@@ -5,8 +5,8 @@
 2. Design Forearm PCB
 3. 3D Print/Model
     a. J4 Pulley (Modeled, needs to be printed)
-    b. J5 Pulley (Needs to be modeled and printed)
-    c. J6 Pulley (Needs to be modeled and printed)
+    b. J5 Pulley/Encoder Mount (Needs to be modeled and printed)
+    c. J6 Pulley/Encoder Mount (Needs to be modeled and printed)
     d. J2 Housing (Finish model and print)
     e. J3 Components (Model and Print)
         i. Side covers
@@ -14,6 +14,7 @@
       iii. Wire pass through (Related to magnetic encoder)
        iv. Update pulley design for   
     f. J1 Design
+    g. Forearm stepper wire way
 4. Wire and test J4
 5. Wire and test J3
 6. Wire and test J2
